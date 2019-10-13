@@ -28,14 +28,14 @@
 	z-index: 20;
 }
 #myCanvas{
-    -o-transform:  transform 6s;
+  -o-transform:  transform 6s;
 	-ms-transform:  transform 6s;
 	-moz-transform:  transform 6s;		
 	-webkit-transform:  transform 6s;
 	transition: transform 6s;
 	-o-transform-origin:  50% 50%;
 	-ms-transform-origin:  50% 50%;
-	-moz-transform-origin:  50% 50%;		
+	-moz-transform-origin:  50% 50%;
 	-webkit-transform-origin:  50% 50%;
 	transform-origin: 50% 50%;
 }
